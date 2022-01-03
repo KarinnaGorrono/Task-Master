@@ -1,0 +1,22 @@
+/* BASIC STYLES HERE */
+
+nav {
+    background-color: rgb(142, 174, 177);
+}
+
+footer {
+    background-color: rgb(142, 174, 177);
+}
+
+.card {
+    min-height: 35em;
+    min-width: 25em;
+}
+
+.listBody{
+    min-height: 20em;
+}
+
+.buttomRemove{
+    color: rgb(131, 58, 58);
+}
